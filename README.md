@@ -44,5 +44,5 @@ The analysis is designed to provide **quick, accurate, and actionable informatio
 * **PPT Presentation:** [Click here to view the presentation](https://drive.google.com/file/d/1nmDOviK2z63dNi-_jFcWCshcrRPbTHBe/view?usp=sharing)
 * **Project Presentation Video:** [Watch on YouTube](https://youtu.be/a3PoLoDifIM)
 * **Portfolio Website:** [View my portfolio](https://codebasics.io/portfolio/Kaushik-Chakraborty)
-* **LinkedIn Post:** [View the LinkedIn post and engagement]()
+* **LinkedIn Post:** [View the LinkedIn post and engagement](https://www.linkedin.com/feed/update/urn:li:activity:7496634237635358720/)
 
