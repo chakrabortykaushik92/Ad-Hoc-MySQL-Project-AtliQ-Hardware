@@ -41,8 +41,8 @@ The analysis is designed to provide **quick, accurate, and actionable informatio
 
 ## Project Resources
 
-* **PPT Presentation:** [Click here to view the presentation](https://shorturl.at/Pkxjp)
-* **Project Presentation Video:** [Watch on YouTube](https://youtu.be/kxVaNVQaPI4)
-* **Portfolio Website:** [View my portfolio](https://codebasics.io/portfolio/SREE-VIGNESH-S)
-* **LinkedIn Post:** [View the LinkedIn post and engagement](https://www.linkedin.com/posts/sree-vignesh-05-_dataanalyst-sql-mysql-activity-7240269076835581953-4DeI?utm_source=share&utm_medium=member_desktop)
+* **PPT Presentation:** [Click here to view the presentation](https://drive.google.com/file/d/1nmDOviK2z63dNi-_jFcWCshcrRPbTHBe/view?usp=sharing)
+* **Project Presentation Video:** [Watch on YouTube](https://youtu.be/a3PoLoDifIM)
+* **Portfolio Website:** [View my portfolio](https://codebasics.io/portfolio/Kaushik-Chakraborty)
+* **LinkedIn Post:** [View the LinkedIn post and engagement]()
 
